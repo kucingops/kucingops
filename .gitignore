@@ -1,0 +1,22 @@
+# Ignore everything by default
+*
+
+# Whitelist core web files
+!index.html
+!post.html
+
+# Whitelist directories and their contents
+!css/
+!css/**
+!js/
+!js/**
+!images/
+!images/**
+!assets/
+!assets/**
+!.github/
+!.github/**
+
+# Config files
+!.gitignore
+!README.md
