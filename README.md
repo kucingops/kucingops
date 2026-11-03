@@ -1,3 +1,3 @@
-## Hi there 👋
+## Intro
 
-🔨 Currently crafting this space - stay tuned for updates!
+If you found this, welcome to my github, I’m not someone super smart who discovers new things, or a super geek who solves every LeetCode problem. I also didn’t go to a top university. In this repo, I’ll share what I learn as I try to understand concepts and how things flow. I’m starting in November ‘26. AI agents are everywhere these days and can build software almost flawlessly. But we humans still need to understand what they build. We still have to share ideas with other people, troubleshoot edge cases that AI can’t handle or doesn’t have the context for, and decide the next steps, which takes creativity and understanding. Feel free to jump in and correct me. I’ll try to include all my sources in each repo as I explore things, because the purpose of this Git is to share and learn together.
