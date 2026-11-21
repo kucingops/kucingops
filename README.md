@@ -1,6 +1,6 @@
 ### Hi, I'm Hilmi 🐈 (kucingops)
 
-Software engineer from Bogor, Indonesia. I mostly work on the backend with **Java (Spring Boot, Quarkus)** and have been exploring event-driven systems with **Kafka**.
+Software engineer from Bogor, Indonesia. I enjoy building reliable systems and figuring out how things work under the hood.
 
 I learn by explaining. This GitHub is where I learn in public: I break down how concepts work and how data flows, with sources, so others can learn along (and correct me). AI can write a lot of code now, but someone still has to understand it, explain it, and handle the edge cases. That's the part I care about.
 
