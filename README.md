@@ -7,7 +7,6 @@ I'm not someone who discovers brand-new things or solves every LeetCode problem,
 #### 🔭 What I'm working on
 - **[catsheet](https://github.com/kucingops/catsheet)**: interview-prep cheatsheets with runnable code (Java, Spring Boot, Quarkus, PHP/Laravel)
 - **[mini-bank](https://github.com/kucingops/mini-bank)**: distributed fund transfer with real-time fraud detection (microservices)
-- **[landing-page-1](https://github.com/kucingops/landing-page-1)**: my portfolio site in SvelteKit, offline-ready PWA, Lighthouse 100
 
 #### 🛠️ Stack
 `Java` `Spring Boot` `Quarkus` `Kafka` `PostgreSQL` `Docker` `TypeScript` `Svelte` `Python`
