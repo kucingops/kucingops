@@ -1,4 +1,4 @@
-### Hi, I'm Hilmi 🐈 (kucingops)
+### Hi, I'm Syarif 🐈 (kucingops)
 
 Software engineer from Bogor, Indonesia. I enjoy building reliable systems and figuring out how things work under the hood.
 
